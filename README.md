@@ -6,10 +6,6 @@ Este projeto tem como objetivo desenvolver uma análise abrangente de turnover p
 
 ![2023-12-13 09-13-31](https://github.com/GleisonAmorim/AnaliseTurnover/assets/54336609/74450259-9b8b-492c-92cf-ca4694ba5b8b)
 
-![image](https://github.com/GleisonAmorim/AnaliseTurnover/assets/54336609/84f482bd-87d0-49e4-880f-4a750bf0ca19)
-
-![image](https://github.com/GleisonAmorim/AnaliseTurnover/assets/54336609/45515f4a-5fe4-41c6-8007-56671716caba)
-
 ## Ferramentas Utilizadas
 
 - [Canva](https://www.canva.com/)
