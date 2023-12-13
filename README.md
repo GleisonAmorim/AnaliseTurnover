@@ -8,9 +8,11 @@ Este projeto tem como objetivo desenvolver uma análise abrangente de turnover p
 
 ## Ferramentas Utilizadas
 
-- [Canva](https://www.canva.com/)
-- [Power BI](https://powerbi.microsoft.com/)
-- [SQL](https://www.microsoft.com/en-us/sql-server)
+- Canva
+- Power BI
+- SQL
+- Power Query
+- Excel
 
 ## Principais Desafios e Soluções
 
