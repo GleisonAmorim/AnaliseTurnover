@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo desenvolver uma análise abrangente de turnover para o departamento de Recursos Humanos de uma empresa de consultoria. Utilizei ferramentas poderosas como Canva, Power BI e SQL para criar visualizações dinâmicas e insights estratégicos.
+Este projeto tem como objetivo desenvolver uma análise abrangente de turnover para o departamento de Recursos Humanos de uma empresa de consultoria. Utilizei ferramentas poderosas como Canva, Power BI e PowerQuery para criar visualizações dinâmicas e insights estratégicos.
 
 ![2023-12-13 09-13-31](https://github.com/GleisonAmorim/AnaliseTurnover/assets/54336609/74450259-9b8b-492c-92cf-ca4694ba5b8b)
 
@@ -17,17 +17,17 @@ Este projeto tem como objetivo desenvolver uma análise abrangente de turnover p
 
 1. **Análise Geral de Turnover:**
    - Utilização do Power BI para visualizações dinâmicas.
-   - Manipulação eficiente de dados com SQL.
+   - Manipulação eficiente de dados com PowerQuery.
 
 2. **Gráfico Comparativo ao Longo dos Anos:**
    - Power BI para gráficos visuais e impactantes.
 
 3. **Análise de Turnover por Área:**
-   - Segmentação precisa com SQL.
+   - Segmentação precisa com PowerQuery.
    - Visualizações interativas com Power BI.
 
 4. **Painel de Reaproveitamento:**
-   - Power BI e SQL para um painel dinâmico.
+   - Power BI e PowerQuery para um painel dinâmico.
 
 ## Resultados Alcançados
 
